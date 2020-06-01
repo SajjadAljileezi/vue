@@ -29,7 +29,7 @@
         "@fortawesome/vue-fontawesome": "^0.1.9",
         "ant-design-vue": "^1.5.4",
         "hooper": "^0.3.4",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "moment": "^2.25.1",
         "vue-owl-carousel": "^2.0.3",
         "vue-router": "^3.1.6",
